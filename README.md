@@ -8,3 +8,30 @@ Se utiliza **regresión lineal**, un algoritmo de *Machine Learning supervisado*
 
 La fórmula usada en este proyecto es:
 
+nota final = (pendiente × horas de estudio) + intercepto
+
+
+Esto representa un modelo simple que puede ser mejorado añadiendo más variables o datos.
+
+---
+
+## 2. Dataset
+
+Este es un conjunto de datos de ejemplo que se utilizará para el proyecto. Contiene las siguientes características:
+
+- **Horas de estudio por semana**: Cantidad de tiempo que el estudiante dedica al estudio semanalmente.
+- **Nivel de participación en clase (%)**: Indica el grado de involucramiento del estudiante durante las clases.
+- **Cantidad de tareas entregadas**: Número total de tareas presentadas por el estudiante.
+
+---
+
+## 3. Requisitos
+
+- Python 
+- NumPy
+
+
+
+
+
+
